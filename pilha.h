@@ -1,3 +1,4 @@
+//talvez tera mais um tipo de uso com outras definicoes podemos criar outro arquivo depois se precisar
 //pilha para controle de linha
 struct PilhaLinha {
     pilha *ponteiroLinha;
